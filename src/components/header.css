@@ -1,0 +1,11 @@
+.header{
+    background-color: rgb(37, 210, 216);
+    
+    display: flex;
+    justify-content: end;
+    
+
+}
+.item{
+    margin-right: 10px;
+}

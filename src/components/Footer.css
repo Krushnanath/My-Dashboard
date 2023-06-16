@@ -1,0 +1,13 @@
+.footer{
+    background-color: azure;
+    border: 1px solid red;
+    text-align: center;
+    justify-content: center;
+    justify-items: center;
+    display: flex;
+}
+.image
+{
+    height: 10%;
+   width: 10%;
+}

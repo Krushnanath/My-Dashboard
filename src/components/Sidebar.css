@@ -1,0 +1,13 @@
+.side{
+    text-align: left;
+    justify-content: center;
+    
+    
+    height: 400px;
+    border: 1px solid red;
+    background-color: aquamarine;
+}
+.offcanvas{
+    max-width: 20%;
+    background-color: darkgray;
+}

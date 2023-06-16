@@ -1,0 +1,26 @@
+.score{
+    text-shadow: 10px;
+    font-size: large;
+    font-weight: 1000;
+    color: brown;
+
+}
+.box{
+    border: 10px solid red;
+    min-height: 50px;
+    max-height: 20%;
+    min-width: 10%;
+    max-width: 20%;
+    margin-left: 30px;
+    background-color: black;
+   color: rgb(10, 10, 10);
+}
+.boxOpen{
+    border: 10px solid red;
+    min-height: 50px;
+    max-height: 20%;
+    min-width: 10%;
+    max-width: 20%;
+    margin-left: 30px;
+    background-color: white;
+}
